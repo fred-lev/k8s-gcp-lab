@@ -2,22 +2,22 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/google" {
-  version     = "6.22.0"
+  version     = "6.29.0"
   constraints = ">= 3.73.0"
   hashes = [
-    "h1:m7PTvKM9DE0iEaUMv3gMzLzBl19+1h++WTo0/iSNFWg=",
-    "zh:121be62239a611b052e1268e38349503a35ca63b77aef7283a75a0e51c7bbf47",
-    "zh:2e268d3fd65bb02cd3b0e11079a54c6ffb2823fe04288db7d576d1ed9c976cc5",
-    "zh:3b04a0ef4541d6597c4578f5cc66e085feae27bd79d40fa02d235ca53b2690f0",
-    "zh:428f001739a63675a44fd1b2b10a4b014481b7e4c320bda3a9fdcae0c6b190a2",
-    "zh:86b33cd155b23b8aebde473b94d5204de90d7fa94cd22fe8817df498eb2721cc",
-    "zh:94ce76f05a93f33429faf74446a44e433b6e60516ebfce2b18deb1e19bccf89e",
-    "zh:9e6c19db937b560dbb3cd42fb9d41057174e4f45fd3a4ce5a13120f4d8a29ed7",
-    "zh:a76ec0384e977887e1c06bca35e21c291781000b2ceac227918f3abf9b5e94e3",
-    "zh:a81eca9e470f9d75d19a0df762de6d9ba232005d56bfed01daf82e010bc4ed12",
-    "zh:cf7ee08d7b64de10fdc2c41d91efe25a18e577ca1b5d2ef0ea9aed10260d2c25",
+    "h1:E+nXAl8krGxH+AtEYiyNannu+Viv1aoft1U0V/ZCSso=",
+    "zh:01a501df2fb9ecbf0935b27e588bc7b6bcaf4ab0043747f4229c25e4ba47dadb",
+    "zh:056f8ab2b73755cf5a67228ab4a07882e76265fa25b07f2794d9939288164f48",
+    "zh:0dbdfa564f7db8a2e6f7e76437a9850b6101450120c08e87cf9846330736c0c6",
+    "zh:3c3e4ee801de22812bd07cb3d36b227f8057d7825998fb4d97051764a565b89b",
+    "zh:4e440eb4c60da9cd7d23b3b99be54c869472fd70006c39639a04b9a51248929c",
+    "zh:659490efd20b3e98e4166b2925baa18549d82e4c16751bc92baed0185d22d108",
+    "zh:9ae24b98a3a3346b8004c6b87e3b59decba2f64c7407e106263859c275105ef8",
+    "zh:c64cff9c17e302236bb9e0a6d5eff4c92540ce3947269f3db94e2b9a1b1a3f4e",
+    "zh:d2fd0aecbbbba463bcb0640f54c8df5e7a63918bdd44236dcd36dff33bb8de09",
+    "zh:f022316369ea676f5f9d11768b4c621abd3304c1e6d1f0c2361e4e2620c4b65d",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
-    "zh:fbb6b78f41a1f7ff69dd77c7dfee9b50f2b040d8b0010aee0071e6dc632611be",
+    "zh:feb7d4fdbebdfabac2aaa73376f754736ccf089fa90adf6388701f89801188e6",
   ]
 }
 
