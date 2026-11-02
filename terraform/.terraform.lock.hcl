@@ -2,22 +2,22 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/google" {
-  version     = "6.36.1"
+  version     = "8.9.0"
   constraints = ">= 3.73.0"
   hashes = [
-    "h1:DTbEbqeeLHIC+hsNr+IsYk8Qt+UXrTtza0YttHrfHUg=",
-    "zh:161d054bda352a286a997f80f3d59366d072377abc6777bfe8abacc2e10ac2bf",
-    "zh:314c38d8050036176031f691b533184c3578036085483fed877b3b139f887047",
-    "zh:503c9807312feb9766f0da207d5ac149aa6f5a669144c60da38a33d072ebe2c2",
-    "zh:897abe484c44c625b301e828a4967c9f781fbf33b5bb50afe226410ebbfd0137",
-    "zh:97bcdc879b48f5f8bee98316234a1eed3c2e440e356631066d07b5d85ccfe288",
-    "zh:b273e940da85c5d673cbb3cafe36fb70dd8536e2d8812e617191196c312dac3b",
-    "zh:ba294699ca7082d394498ce62ecb55501c6a141fd1c43db00a6abdaebc92fa2e",
-    "zh:c50be96b5c8df5124f18ccdef473eed0bc3a2452e674c19f58fbf7ee14195af4",
-    "zh:d5a8fda3abda57d912be020e22bab3568facc729756e5339af9a3e56ca277cbc",
-    "zh:dddbfed09dff01fe538830714a13e71d7581cf2ccfba15acc0a6bb7266147bed",
-    "zh:e65e8c2e97d1e23c9380516b1d37e111cc700b538d8fca6b9e28ebb89e305ee0",
+    "h1:1REt6EKYmjtrLK5PC/AHGZ2FFaHs0EMsvLOyv2eADeA=",
+    "zh:204c800cca7419c69aa219c5584029432e2add15a7159101fb259028d5db5684",
+    "zh:22cbb6c7ba3d3a91bbd63db158d65a594d1dab04d53fb37fffb3de9e28fccbc8",
+    "zh:3fe9bc4bcd8d6cdb277ad074ca71fd76d408b007aed915137807062e6b78bc59",
+    "zh:46cd3c139d1d24607f0310e01353f1c40cce69d30328b0339768dad428a81d5a",
+    "zh:5aa53cec75d0e2fc494b3a8ee53f74fece6bc2652bdb9b75e1bdc62a2a43b6f7",
+    "zh:8650863d8148062f6e22df62c331927e134ae9f83af556d265b17bcbd7b1ab51",
+    "zh:9ee9965d085f86263842f281257efc8394998c937c4c49eda649a61f26544813",
+    "zh:cc80028bd30af6182f29f0148e9469a9a49254c0f378caeb3d9fba050543c11a",
+    "zh:e2adf06a292d50dc58f52d2ba059f2361f1642dad3054ea839ab2e4763cceb8d",
+    "zh:f0afcbd33aaea01f6a62e7ced7ad5b31c86d5a7016da1965db1fcb2d7b926556",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+    "zh:feeaffe1edb8ac1f3c0f431f11d21ef31c6b797762d8428e3c18a67ac641cf49",
   ]
 }
 
